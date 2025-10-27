@@ -1,0 +1,25 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+ nav {
+    display: flex;
+ }
+
+ nav ul li{
+    list-style: none;
+ }
+
+ .text-primary{
+    color: rgb(255, 166, 2);
+ }
