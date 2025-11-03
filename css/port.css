@@ -133,8 +133,29 @@ main{
    justify-content: space-around;
    padding: 20px;
 }
-.title-des{
-   font-size: 15px;
-   margin: 10px;
+
+.skil-title{
+   text-align: center;
+   margin: 100px;
+   padding: 0 auto;
+
+}
+
+.skill-container{
+   display: flex;
+   gap: 10px;
+    padding: 10px; 
+   border-radius: 10px;
+   
+   
+}
+
+.skill1{
+   padding: 30px;
+   box-shadow: 0 6px 50px 0 rgb(109, 109, 109);
+   border-radius: 10px;
+   
+
+   
 }
 
