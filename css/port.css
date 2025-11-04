@@ -159,3 +159,24 @@ main{
    
 }
 
+.resume-container{
+   display: flex;
+   gap : 20px;
+   padding: 25px;
+   margin: 25px;
+}
+.resume-title{
+   text-align: center;
+   margin-top: 89px;
+   margin-bottom: 20px;
+}
+.reusme-colume{
+   padding: 25px;
+   margin: 25px;
+}
+.experience-subtitle {
+   margin-top: 20px;
+}
+.reusme-colume-title{
+   margin-bottom: 30px;
+}
