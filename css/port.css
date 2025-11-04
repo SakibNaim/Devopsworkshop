@@ -180,3 +180,53 @@ main{
 .reusme-colume-title{
    margin-bottom: 30px;
 }
+/*  */
+.button{
+   text-align: center;
+   display: block;
+ 
+}
+.btn{
+   background-color: orange;
+   padding: 20px;
+   margin-bottom: 10px;
+   border-radius: 10px;
+   border: none;
+   font-size: 25px;
+}
+
+footer{
+   padding: 130px 200px;
+   display: flex;
+   gap:100px;
+}
+.footer-colume{
+   width: 50%;
+
+}
+
+footer input[type="text"], footer input[type="email"], footer textarea{
+
+   height: 64px;
+   border-radius: 5px;
+   background-color: white;
+   display: inline-block;
+   width: 100%;
+   padding: 10px 11px;
+   border: none;
+   margin-bottom: 24px;
+
+
+
+
+}
+
+.section-title{
+   margin-bottom: 10px;
+   font-size: 30px;
+}
+
+
+
+
+/* footer section begineering  */
